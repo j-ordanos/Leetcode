@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/j-ordanos/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/j-ordanos/Leetcode/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/j-ordanos/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/j-ordanos/Leetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/j-ordanos/Leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/j-ordanos/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
