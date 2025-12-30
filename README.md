@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/j-ordanos/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/j-ordanos/Leetcode/tree/master/0118-pascals-triangle) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/j-ordanos/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Hash Table
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/j-ordanos/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
