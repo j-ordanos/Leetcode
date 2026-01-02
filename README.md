@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/j-ordanos/Leetcode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/j-ordanos/Leetcode/tree/master/0283-move-zeroes) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/j-ordanos/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/j-ordanos/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/j-ordanos/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/j-ordanos/Leetcode/tree/master/0013-roman-to-integer) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/j-ordanos/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
 |  |
