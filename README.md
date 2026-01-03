@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/j-ordanos/Leetcode/tree/master/0118-pascals-triangle) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/j-ordanos/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Sorting
 |  |
 | ------- |
