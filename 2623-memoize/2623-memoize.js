@@ -2,13 +2,13 @@
  * @param {Function} fn
  * @return {Function}
  */
-function memoize(fn, memo={}) {
+function memoize(fn) {
+    const cache = {};
     return function(...args) {
-       let id = JSON.stringify(args);
-       if(id in memo) return memo[id];
-       let x = fn(...args);
-       memo[id] = x;
-       return x; 
+       let key = JSON.stringify(args);
+       if(key in cache) return cache[key];
+       cache[key] = fn(...args);
+       return cache[key]; 
     }
 }
 
