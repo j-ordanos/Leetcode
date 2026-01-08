@@ -3,29 +3,17 @@
  * @return {Promise<any>}
  */
 var promiseAll = function(functions) {
-     let len = functions.length;
-
+    let len = functions.length;
     return new Promise((resolve, reject) => {
-        if(len === 0){
-            resolve([]);
-            return;
-        }
+        let results = new Array(len);
+        let count = 0;
 
-        const resolvedArr = new Array(len);
-        let resolvedCount = 0;
-
-        functions.forEach(async (fn, i) =>{
-            try{
-                const val = await fn();
-                resolvedArr[i] = val;
-                resolvedCount++;
-
-                if(resolvedCount === len){
-                    resolve(resolvedArr)
-                }
-            }catch(err){
-                reject(err);
-            }
+        functions.forEach((fn,i) => {
+            fn().then(val => {
+                results[i] = val;
+                count++;
+                if(count === len) resolve(results);
+            }).catch(reject);
         })
     })
 };
