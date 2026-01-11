@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/j-ordanos/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/j-ordanos/Leetcode/tree/master/0085-maximal-rectangle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/j-ordanos/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
