@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/j-ordanos/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/j-ordanos/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/j-ordanos/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/j-ordanos/Leetcode/tree/master/0070-climbing-stairs) |
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/j-ordanos/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/j-ordanos/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/j-ordanos/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/j-ordanos/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/j-ordanos/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/j-ordanos/Leetcode/tree/master/0118-pascals-triangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/j-ordanos/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/j-ordanos/Leetcode/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/j-ordanos/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
