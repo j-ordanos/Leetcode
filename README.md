@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/j-ordanos/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/j-ordanos/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/j-ordanos/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/j-ordanos/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/j-ordanos/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/j-ordanos/Leetcode/tree/master/0070-climbing-stairs) |
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/j-ordanos/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/j-ordanos/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/j-ordanos/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/j-ordanos/Leetcode/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/j-ordanos/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Linked List
@@ -123,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/j-ordanos/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/j-ordanos/Leetcode/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/j-ordanos/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/j-ordanos/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/j-ordanos/Leetcode/tree/master/0067-add-binary) |
 ## Tree
 |  |
 | ------- |
