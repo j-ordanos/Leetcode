@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/j-ordanos/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/j-ordanos/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/j-ordanos/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/j-ordanos/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/j-ordanos/Leetcode/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/j-ordanos/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/j-ordanos/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/j-ordanos/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/j-ordanos/Leetcode/tree/master/0125-valid-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/j-ordanos/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Linked List
