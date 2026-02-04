@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/j-ordanos/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/j-ordanos/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/j-ordanos/Leetcode/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/j-ordanos/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/j-ordanos/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/j-ordanos/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/j-ordanos/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/j-ordanos/Leetcode/tree/master/0125-valid-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/j-ordanos/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0771-jewels-and-stones](https://github.com/j-ordanos/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Linked List
 |  |
