@@ -3,13 +3,5 @@
  * @return {number[]}
  */
 var constructTransformedArray = function(nums) {
-    const n = nums.length;
-    let result = new Array(n);
-
-    for(let i=0; i<n; i++){
-        let targetIndex = (i + nums[i] % n + n) % n;
-        result[i] = nums[targetIndex];
-    }
-
-    return result;
+    return nums.map((v, i) => nums.at((i + v) % nums.length));
 };
