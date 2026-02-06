@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/j-ordanos/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/j-ordanos/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/j-ordanos/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/j-ordanos/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/j-ordanos/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/j-ordanos/Leetcode/tree/master/0069-sqrtx) |
+| [0300-longest-increasing-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/j-ordanos/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3453-separate-squares-i](https://github.com/j-ordanos/Leetcode/tree/master/3453-separate-squares-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/j-ordanos/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/j-ordanos/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/j-ordanos/Leetcode/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/j-ordanos/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/j-ordanos/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/j-ordanos/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
