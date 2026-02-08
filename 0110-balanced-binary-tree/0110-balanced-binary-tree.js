@@ -11,19 +11,20 @@
  * @return {boolean}
  */
 var isBalanced = function(root) {
-    if(root === null){
-        return true;
+    
+    function dfs(node){
+        if(node === null) return 0;
+
+        let left = dfs(node.left);
+        if(left === -1) return -1;
+
+        let right = dfs(node.right);
+        if(right === -1) return -1;
+
+        if(Math.abs(left - right) > 1) return -1;
+
+        return 1 + Math.max(left,right);
     }
 
-    function maxDepth(root){
-        if(root === null){
-            return 0;
-        }
-        return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
-    }
-
-    let leftHeight = maxDepth(root.left);
-    let rightHeight = maxDepth(root.right);
-
-    return Math.abs(leftHeight - rightHeight) <= 1 && isBalanced(root.left) && isBalanced(root.right);
+    return dfs(root) !== -1;
 };
