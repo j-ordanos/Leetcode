@@ -3,6 +3,12 @@
  * @return {number}
  */
 var reverseBits = function(n) {
-    let reversedBits = (n | 0).toString(2).padStart(32, '0').split("").reverse().join("");
-    return parseInt(reversedBits, 2) | 0;
+    let res = 0;
+
+    for (let i = 0; i < 32; i++) {
+        res <<= 1;
+        res |= (n & 1);
+        n >>= 1;
+    }
+    return res >>> 0;
 };
