@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/j-ordanos/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/j-ordanos/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/j-ordanos/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/j-ordanos/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/j-ordanos/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/j-ordanos/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
