@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/j-ordanos/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/j-ordanos/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/j-ordanos/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/j-ordanos/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/j-ordanos/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/j-ordanos/Leetcode/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/j-ordanos/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/j-ordanos/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/j-ordanos/Leetcode/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/j-ordanos/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/j-ordanos/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/j-ordanos/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/j-ordanos/Leetcode/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/j-ordanos/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/j-ordanos/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/j-ordanos/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/j-ordanos/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/j-ordanos/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/j-ordanos/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/j-ordanos/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/j-ordanos/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/j-ordanos/Leetcode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/j-ordanos/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/j-ordanos/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Concurrency
