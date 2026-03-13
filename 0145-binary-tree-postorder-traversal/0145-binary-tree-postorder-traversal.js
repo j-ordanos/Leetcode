@@ -11,29 +11,15 @@
  * @return {number[]}
  */
 var postorderTraversal = function(root) {
-    const res = [];
-    let cur = root;
-
-    while (cur) {
-        if (!cur.right) {
-            res.push(cur.val);
-            cur = cur.left;
-        } else {
-            let prev = cur.right;
-            while (prev.left && prev.left !== cur) {
-                prev = prev.left;
-            }
-
-            if (!prev.left) {
-                res.push(cur.val);
-                prev.left = cur;
-                cur = cur.right;
-            } else {
-                prev.left = null;
-                cur = cur.left;
-            }
-        }
+    const result = [];
+    
+    function traverse(node) {
+        if (!node) return;
+        traverse(node.left);
+        traverse(node.right);
+        result.push(node.val);
     }
-
-    return res.reverse();
+    
+    traverse(root);
+    return result;
 };
