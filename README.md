@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/j-ordanos/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/j-ordanos/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/j-ordanos/Leetcode/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/j-ordanos/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/j-ordanos/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/j-ordanos/Leetcode/tree/master/0146-lru-cache) |
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
+| [1622-fancy-sequence](https://github.com/j-ordanos/Leetcode/tree/master/1622-fancy-sequence) |
 ## Randomized
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/j-ordanos/Leetcode/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/j-ordanos/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
