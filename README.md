@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/j-ordanos/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0561-array-partition](https://github.com/j-ordanos/Leetcode/tree/master/0561-array-partition) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/j-ordanos/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/j-ordanos/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/j-ordanos/Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/j-ordanos/Leetcode/tree/master/0561-array-partition) |
 | [1382-balance-a-binary-search-tree](https://github.com/j-ordanos/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/j-ordanos/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/j-ordanos/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/j-ordanos/Leetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/j-ordanos/Leetcode/tree/master/0561-array-partition) |
 | [1200-minimum-absolute-difference](https://github.com/j-ordanos/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/j-ordanos/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -437,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/j-ordanos/Leetcode/tree/master/0146-lru-cache) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/j-ordanos/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
