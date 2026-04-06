@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/j-ordanos/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/j-ordanos/Leetcode/tree/master/1390-four-divisors) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/j-ordanos/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/j-ordanos/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/j-ordanos/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
