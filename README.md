@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/j-ordanos/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/j-ordanos/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/j-ordanos/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3110-score-of-a-string](https://github.com/j-ordanos/Leetcode/tree/master/3110-score-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/j-ordanos/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
