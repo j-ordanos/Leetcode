@@ -1,0 +1,28 @@
+/**
+ * @param {number[][]} grid
+ * @return {number[][]}
+ */
+var constructProductMatrix = function(grid) {
+    const m = grid.length;
+    const n = grid[0].length;
+    const MOD = 12345;
+    const ans = Array.from({ length: m }, () => new Array(n).fill(1));
+
+    let prefix = 1;
+    for (let i = 0; i < m; i++) {
+        for (let j = 0; j < n; j++) {
+            ans[i][j] = prefix;
+            prefix = (prefix * (grid[i][j] % MOD)) % MOD;
+        }
+    }
+
+    let suffix = 1;
+    for (let i = m - 1; i >= 0; i--) {
+        for (let j = n - 1; j >= 0; j--) {
+            ans[i][j] = (ans[i][j] * suffix) % MOD;
+            suffix = (suffix * (grid[i][j] % MOD)) % MOD;
+        }
+    }
+
+    return ans;
+};
