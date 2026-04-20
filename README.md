@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/j-ordanos/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/j-ordanos/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/j-ordanos/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/j-ordanos/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/j-ordanos/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2906-construct-product-matrix](https://github.com/j-ordanos/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/j-ordanos/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/j-ordanos/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/j-ordanos/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/j-ordanos/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## String
 |  |
 | ------- |
