@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/j-ordanos/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0415-add-strings](https://github.com/j-ordanos/Leetcode/tree/master/0415-add-strings) |
+| [0633-sum-of-square-numbers](https://github.com/j-ordanos/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/j-ordanos/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0989-add-to-array-form-of-integer](https://github.com/j-ordanos/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/j-ordanos/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/j-ordanos/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/j-ordanos/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/j-ordanos/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/j-ordanos/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/j-ordanos/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/j-ordanos/Leetcode/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/j-ordanos/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/j-ordanos/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3453-separate-squares-i](https://github.com/j-ordanos/Leetcode/tree/master/3453-separate-squares-i) |
