@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/j-ordanos/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/j-ordanos/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/j-ordanos/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/j-ordanos/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0763-partition-labels](https://github.com/j-ordanos/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/j-ordanos/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/j-ordanos/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/j-ordanos/Leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/j-ordanos/Leetcode/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/j-ordanos/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/j-ordanos/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/j-ordanos/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/j-ordanos/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/j-ordanos/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/j-ordanos/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/j-ordanos/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/j-ordanos/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/j-ordanos/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
