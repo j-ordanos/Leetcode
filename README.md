@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/j-ordanos/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/j-ordanos/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/j-ordanos/Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/j-ordanos/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/j-ordanos/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/j-ordanos/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/j-ordanos/Leetcode/tree/master/0283-move-zeroes) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/j-ordanos/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/j-ordanos/Leetcode/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/j-ordanos/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/j-ordanos/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/j-ordanos/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/j-ordanos/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/j-ordanos/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/j-ordanos/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/j-ordanos/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/j-ordanos/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/j-ordanos/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2906-construct-product-matrix](https://github.com/j-ordanos/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/j-ordanos/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
