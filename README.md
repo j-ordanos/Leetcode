@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/j-ordanos/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/j-ordanos/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0941-valid-mountain-array](https://github.com/j-ordanos/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/j-ordanos/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-longest-turbulent-subarray](https://github.com/j-ordanos/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0989-add-to-array-form-of-integer](https://github.com/j-ordanos/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
