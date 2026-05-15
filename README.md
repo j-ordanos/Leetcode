@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/j-ordanos/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/j-ordanos/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/j-ordanos/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/j-ordanos/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/j-ordanos/Leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/j-ordanos/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/j-ordanos/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/j-ordanos/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/j-ordanos/Leetcode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/j-ordanos/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/j-ordanos/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1763-longest-nice-substring](https://github.com/j-ordanos/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1980-find-unique-binary-string](https://github.com/j-ordanos/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/j-ordanos/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/j-ordanos/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/j-ordanos/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/j-ordanos/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/j-ordanos/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2418-sort-the-people](https://github.com/j-ordanos/Leetcode/tree/master/2418-sort-the-people) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/j-ordanos/Leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/j-ordanos/Leetcode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/j-ordanos/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Graph Theory
 |  |
 | ------- |
