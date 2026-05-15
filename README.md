@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/j-ordanos/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0495-teemo-attacking](https://github.com/j-ordanos/Leetcode/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/j-ordanos/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/j-ordanos/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/j-ordanos/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/j-ordanos/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/j-ordanos/Leetcode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/j-ordanos/Leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/j-ordanos/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/j-ordanos/Leetcode/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/j-ordanos/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
