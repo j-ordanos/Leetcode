@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/j-ordanos/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/j-ordanos/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/j-ordanos/Leetcode/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/j-ordanos/Leetcode/tree/master/2540-minimum-common-value) |
 | [2906-construct-product-matrix](https://github.com/j-ordanos/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/j-ordanos/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/j-ordanos/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/j-ordanos/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1980-find-unique-binary-string](https://github.com/j-ordanos/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2418-sort-the-people](https://github.com/j-ordanos/Leetcode/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/j-ordanos/Leetcode/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/j-ordanos/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/j-ordanos/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/j-ordanos/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/j-ordanos/Leetcode/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2540-minimum-common-value](https://github.com/j-ordanos/Leetcode/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/j-ordanos/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/j-ordanos/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/j-ordanos/Leetcode/tree/master/2540-minimum-common-value) |
 | [3453-separate-squares-i](https://github.com/j-ordanos/Leetcode/tree/master/3453-separate-squares-i) |
 ## Matrix
 |  |
