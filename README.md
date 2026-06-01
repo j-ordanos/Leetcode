@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0495-teemo-attacking](https://github.com/j-ordanos/Leetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/j-ordanos/Leetcode/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/j-ordanos/Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/j-ordanos/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/j-ordanos/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/j-ordanos/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/j-ordanos/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/j-ordanos/Leetcode/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/j-ordanos/Leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/j-ordanos/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/j-ordanos/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0763-partition-labels](https://github.com/j-ordanos/Leetcode/tree/master/0763-partition-labels) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/j-ordanos/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/j-ordanos/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/j-ordanos/Leetcode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/j-ordanos/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/j-ordanos/Leetcode/tree/master/1480-running-sum-of-1d-array) |
