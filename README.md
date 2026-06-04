@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/j-ordanos/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/j-ordanos/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0848-shifting-letters](https://github.com/j-ordanos/Leetcode/tree/master/0848-shifting-letters) |
 | [0904-fruit-into-baskets](https://github.com/j-ordanos/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0908-smallest-range-i](https://github.com/j-ordanos/Leetcode/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/j-ordanos/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/j-ordanos/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0763-partition-labels](https://github.com/j-ordanos/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/j-ordanos/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0848-shifting-letters](https://github.com/j-ordanos/Leetcode/tree/master/0848-shifting-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/j-ordanos/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/j-ordanos/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/j-ordanos/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/j-ordanos/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/j-ordanos/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/j-ordanos/Leetcode/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/j-ordanos/Leetcode/tree/master/0848-shifting-letters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/j-ordanos/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/j-ordanos/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/j-ordanos/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
