@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/j-ordanos/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3719-longest-balanced-subarray-i](https://github.com/j-ordanos/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/j-ordanos/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3903-smallest-stable-index-i](https://github.com/j-ordanos/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/j-ordanos/Leetcode/tree/master/1854-maximum-population-year) |
 | [2906-construct-product-matrix](https://github.com/j-ordanos/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/j-ordanos/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3903-smallest-stable-index-i](https://github.com/j-ordanos/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search Tree
 |  |
 | ------- |
