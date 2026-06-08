@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/j-ordanos/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0848-shifting-letters](https://github.com/j-ordanos/Leetcode/tree/master/0848-shifting-letters) |
+| [0867-transpose-matrix](https://github.com/j-ordanos/Leetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/j-ordanos/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0908-smallest-range-i](https://github.com/j-ordanos/Leetcode/tree/master/0908-smallest-range-i) |
 | [0941-valid-mountain-array](https://github.com/j-ordanos/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/j-ordanos/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/j-ordanos/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0867-transpose-matrix](https://github.com/j-ordanos/Leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/j-ordanos/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/j-ordanos/Leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/j-ordanos/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/j-ordanos/Leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/j-ordanos/Leetcode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/j-ordanos/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/j-ordanos/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/j-ordanos/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
