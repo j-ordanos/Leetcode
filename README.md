@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/j-ordanos/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/j-ordanos/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/j-ordanos/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2352-equal-row-and-column-pairs](https://github.com/j-ordanos/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/j-ordanos/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/j-ordanos/Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/j-ordanos/Leetcode/tree/master/2540-minimum-common-value) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/j-ordanos/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1980-find-unique-binary-string](https://github.com/j-ordanos/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/j-ordanos/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2352-equal-row-and-column-pairs](https://github.com/j-ordanos/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/j-ordanos/Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/j-ordanos/Leetcode/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/j-ordanos/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/j-ordanos/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/j-ordanos/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/j-ordanos/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2352-equal-row-and-column-pairs](https://github.com/j-ordanos/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/j-ordanos/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/j-ordanos/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/j-ordanos/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/j-ordanos/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/j-ordanos/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/j-ordanos/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2352-equal-row-and-column-pairs](https://github.com/j-ordanos/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/j-ordanos/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3028-ant-on-the-boundary](https://github.com/j-ordanos/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/j-ordanos/Leetcode/tree/master/3379-transformed-array) |
