@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/j-ordanos/Leetcode/tree/master/0146-lru-cache) |
 | [0384-shuffle-an-array](https://github.com/j-ordanos/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0933-number-of-recent-calls](https://github.com/j-ordanos/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1622-fancy-sequence](https://github.com/j-ordanos/Leetcode/tree/master/1622-fancy-sequence) |
 ## Randomized
 |  |
@@ -668,4 +669,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/j-ordanos/Leetcode/tree/master/0164-maximum-gap) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/j-ordanos/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/j-ordanos/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
