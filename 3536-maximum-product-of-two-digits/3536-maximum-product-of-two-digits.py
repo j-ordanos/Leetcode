@@ -1,12 +1,10 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        s = str(n)
-        max_p = 0
-        l = len(s)
+        num_str = str(n)
+        digits = []
 
-        for i in range(l):
-            for j in range(i+1, l):
-                prod = int(s[i]) * int(s[j])
-                if prod > max_p:
-                    max_p = prod
-        return max_p
+        for char in num_str:
+            digit = int(char)
+            digits.append(digit)
+        digits.sort(reverse=True)
+        return digits[0] * digits[1]
