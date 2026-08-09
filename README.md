@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/j-ordanos/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1266-minimum-time-visiting-all-points](https://github.com/j-ordanos/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/j-ordanos/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/j-ordanos/Leetcode/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/j-ordanos/Leetcode/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/j-ordanos/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/j-ordanos/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/j-ordanos/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/j-ordanos/Leetcode/tree/master/0561-array-partition) |
 | [0763-partition-labels](https://github.com/j-ordanos/Leetcode/tree/master/0763-partition-labels) |
+| [1323-maximum-69-number](https://github.com/j-ordanos/Leetcode/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/j-ordanos/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/j-ordanos/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
