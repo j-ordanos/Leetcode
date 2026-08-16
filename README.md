@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/j-ordanos/Leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/j-ordanos/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/j-ordanos/Leetcode/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/j-ordanos/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/j-ordanos/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/j-ordanos/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/j-ordanos/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/j-ordanos/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/j-ordanos/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2352-equal-row-and-column-pairs](https://github.com/j-ordanos/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2553-separate-the-digits-in-an-array](https://github.com/j-ordanos/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/j-ordanos/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3028-ant-on-the-boundary](https://github.com/j-ordanos/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/j-ordanos/Leetcode/tree/master/3379-transformed-array) |
