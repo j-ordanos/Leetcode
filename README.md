@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/j-ordanos/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/j-ordanos/Leetcode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/j-ordanos/Leetcode/tree/master/3453-separate-squares-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/j-ordanos/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/j-ordanos/Leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/j-ordanos/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/j-ordanos/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/j-ordanos/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/j-ordanos/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/j-ordanos/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/j-ordanos/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/j-ordanos/Leetcode/tree/master/3713-longest-balanced-substring-i) |
