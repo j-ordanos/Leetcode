@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/j-ordanos/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1622-fancy-sequence](https://github.com/j-ordanos/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/j-ordanos/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1927-sum-game](https://github.com/j-ordanos/Leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/j-ordanos/Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/j-ordanos/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/j-ordanos/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/j-ordanos/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/j-ordanos/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/j-ordanos/Leetcode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/j-ordanos/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/j-ordanos/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## String
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/j-ordanos/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/j-ordanos/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/j-ordanos/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/j-ordanos/Leetcode/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/j-ordanos/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/j-ordanos/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/j-ordanos/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -742,4 +745,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/j-ordanos/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/j-ordanos/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
