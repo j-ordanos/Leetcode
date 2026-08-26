@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/j-ordanos/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/j-ordanos/Leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/j-ordanos/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/j-ordanos/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/j-ordanos/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/j-ordanos/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/j-ordanos/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/j-ordanos/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/j-ordanos/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/j-ordanos/Leetcode/tree/master/3379-transformed-array) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/j-ordanos/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Tree
 |  |
 | ------- |
