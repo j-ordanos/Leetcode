@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/j-ordanos/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/j-ordanos/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/j-ordanos/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/j-ordanos/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/j-ordanos/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/j-ordanos/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/j-ordanos/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/j-ordanos/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/j-ordanos/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/j-ordanos/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/j-ordanos/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/j-ordanos/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/j-ordanos/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/j-ordanos/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
