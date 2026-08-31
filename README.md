@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/j-ordanos/Leetcode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/j-ordanos/Leetcode/tree/master/3453-separate-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/j-ordanos/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/j-ordanos/Leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/j-ordanos/Leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/j-ordanos/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
