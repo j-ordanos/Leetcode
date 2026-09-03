@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/j-ordanos/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/j-ordanos/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/j-ordanos/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/j-ordanos/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/j-ordanos/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/j-ordanos/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/j-ordanos/Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/j-ordanos/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/j-ordanos/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/j-ordanos/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/j-ordanos/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/j-ordanos/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
