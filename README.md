@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/j-ordanos/Leetcode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/j-ordanos/Leetcode/tree/master/3453-separate-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/j-ordanos/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/j-ordanos/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/j-ordanos/Leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/j-ordanos/Leetcode/tree/master/3637-trionic-array-i) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/j-ordanos/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/j-ordanos/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/j-ordanos/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/j-ordanos/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/j-ordanos/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/j-ordanos/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/j-ordanos/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/j-ordanos/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/j-ordanos/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/j-ordanos/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/j-ordanos/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/j-ordanos/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/j-ordanos/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/j-ordanos/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/j-ordanos/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
 |  |
